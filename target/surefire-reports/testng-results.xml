@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-13T08:54:38 IST" name="Surefire suite" finished-at="2024-04-13T08:54:38 IST" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2024-04-13T08:54:38 IST" name="Surefire test" finished-at="2024-04-13T08:54:38 IST" duration-ms="42">
+      <class name="seProject.TestSeProject">
+        <test-method signature="testHellowWorld()[pri:0, instance:seProject.TestSeProject@7c1e2a9e]" started-at="2024-04-13T08:54:38 IST" name="testHellowWorld" finished-at="2024-04-13T08:54:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHellowWorld -->
+      </class> <!-- seProject.TestSeProject -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
